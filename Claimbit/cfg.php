@@ -1,10 +1,9 @@
 <?php
-$proxy_ip = '185.199.231.45';
-$proxy_port = '8382';
+$proxy_ip = '188.74.210.21';
+$proxy_port = '6100';
 $Username = 'Tonjo888';
 $Password = 'Tonjo888';
-$cok = "_gid=GA1.2.721079494.1672892196; clever-last-tracker-53577=1; bitmedia_fid=eyJmaWQiOiJiZmE3YjY2M2U2YzQzMThkMzViMTcyMjAyZTZiOWFkZCIsImZpZG5vdWEiOiJjODE1ZGNiMDhjZDBmYmViYmUwMDIxMTkxZTkyNGU4OCJ9; uuid=P55d93bb2-ef23-4fc3-87b2-930c34b483d2; SesHashKey=bfiy0ukain6yrpav; SesToken=ses_id=243540&ses_key=bfiy0ukain6yrpav; AccExist=243540; PHPSESSID=9r1jcouuboovqs3nak8e5cl7ih; cf_clearance=6_BMI39gqZJ3ganh03FKEU2nnEixpLlQNkfqXHPGAE0-1673581008-0-160; _gat_gtag_UA_133726835_1=1; _ga_J2L7YD89W2=GS1.1.1673581011.55.1.1673581039.0.0.0; _ga=GA1.2.2063216898.1672892192";
-$us = "Mozilla/5.0 (Linux; Android 13; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36";
-
+$cok = "PHPSESSID=9rfbpbkcitvh750fjlo36b70lc; RefSource=https://r.search.yahoo.com/_ylt=AwrwXxSu8MBjf2EA3RX8YSQ5;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1673617711/RO=10/RU=https%3a%2f%2fclaimbits.net%2f/RK=2/RS=ekSSEZyLQwPfl3dBcVGd98o3tsc-; _gid=GA1.2.1422189661.1673588922; bitmedia_fid=eyJmaWQiOiJiMzI5ZWRmODRlYTlkOWJlODQyYzIxZjhmYWVmNzA5OSIsImZpZG5vdWEiOiI1ODhjNDc1YWMzNmFhNzY0MmFmZGVhNjcwMGM1OTdkNCJ9; AccExist=244038; SesHashKey=uj5b03iobwb05wsx; SesToken=ses_id=244038&ses_key=uj5b03iobwb05wsx; cf_clearance=zJal6V4T5VjuTlAZu7PWa2H1DZIp3709hniHRiiqC6M-1673589061-0-160; _ga_J2L7YD89W2=GS1.1.1673588921.1.1.1673589084.0.0.0; _ga=GA1.2.1709339483.1673588921; _gat_gtag_UA_133726835_1=1";
+$us = "Mozilla/5.0 (Linux; Android 11; V2043) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36";
 
 
